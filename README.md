@@ -28,7 +28,7 @@ This report outlines the Microsoft Azure services that will be investigated duri
 
 **Overview**  
 - **Entra ID**: Cloud + Hybrid Identity & Access Mgmt, SSO, MFA, CA.  
-- **AWS IAM Identity Center**: Administrates workforce identity, and supports AWS Organizations.  
+- **AWS IAM Identity Center**: Administers workforce identity, and assists AWS Organizations.  
 - **Google Cloud Identity**: The Google Workspace closely connected IAM in the Cloud.
 
 **Core Features**  
@@ -115,9 +115,9 @@ This report outlines the Microsoft Azure services that will be investigated duri
 ### GCP: Security Command Center  
 
 **Overview**  
-- **Defender for Cloud**: Single-vendor cloud workload protection platform (CWPP + CSPM).  
-- **AWS**: Needs several tools Security Hub (CSPM), Inspector (vuln scanning) GuardDuty (threat detection).  
-- **GCP**: Security Command Center has Risk Posture, Threat Intelligence.  
+- **Defender for Cloud**: Single-vendor, cloud workload protection platform, (CWPP + CSPM).  
+- **AWS**: Requires some tooling Security Hub (CSPM) Inspector (vuln scanning) GuardDuty (threat detection).  
+- **GCP**: Risk Posture, Threat Intelligence is part of Security Command Center.  
 
 **Core Features**  
 - Workload protection Generate vulnerability scanning  
